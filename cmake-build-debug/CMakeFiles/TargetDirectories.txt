@@ -1,3 +1,0 @@
-/home/furkanhanilci/Desktop/20.05.24/stanley_controller/cmake-build-debug/CMakeFiles/stanley_controller_cpp.dir
-/home/furkanhanilci/Desktop/20.05.24/stanley_controller/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/furkanhanilci/Desktop/20.05.24/stanley_controller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
